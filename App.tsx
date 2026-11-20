@@ -81,7 +81,7 @@ export default function App() {
             onClick={() => setActiveTab('today')}
             className="font-serif text-xl font-medium tracking-[0.16em] text-[#34312D] whitespace-nowrap shrink-0 cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#777B61]"
           >
-            AM
+            LUCIDA
           </button>
 
           <nav aria-label="주요 메뉴" className="flex items-center gap-8">
